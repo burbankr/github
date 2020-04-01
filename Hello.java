@@ -1,7 +1,6 @@
 public class Hello
 {
-public static void main( String argv[] )
- {
- System.out.println( "Ryenisalittlebitch, " + argv[0] + "!" );
-}
+	public static void main( String argv[] ) {
+ 		System.out.println( "Ryen named things wrong and it messed me up. Now I'm sad" );
+	}
 }
